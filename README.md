@@ -6,6 +6,9 @@ This project is a custom Linux ISO I compiled and themed from scratch to look an
 
 Whether you're tired of plain desktops or just want to impress your friends with a slick macOS vibe, this ISO makes it super easy to get started.
 
+# 📄 Download:
+Due to file size Restrictions on Github, the ISO file can be downloaded at: https://archive.org/details/Macbuntu
+
 # 🎨 What’s Included?
 macOS-style theme applied across GTK/QT apps
 
